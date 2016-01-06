@@ -1,0 +1,33 @@
+{
+  "name": "super-alidayu",
+  "version": "1.0.0",
+  "description": "Alidayu client for Node.js 阿里大鱼短信服务Node.js客户端",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SuperID/super-alidayu.git"
+  },
+  "keywords": [
+    "alidayu",
+    "sms",
+    "client"
+  ],
+  "author": "Zongmin Lei <leizongmin@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SuperID/super-alidayu/issues"
+  },
+  "homepage": "https://github.com/SuperID/super-alidayu",
+  "devDependencies": {
+    "mocha": "^2.3.4"
+  },
+  "dependencies": {
+    "lei-promise": "0.0.3",
+    "lei-utils": "^2.0.0",
+    "request": "^2.67.0",
+    "urlencode": "^1.1.0"
+  }
+}
