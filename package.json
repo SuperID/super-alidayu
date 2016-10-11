@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/SuperID/super-alidayu",
   "devDependencies": {
-    "mocha": "^2.3.4"
+    "mocha": "^3.1.2"
   },
   "dependencies": {
     "lei-promise": "0.0.4",
