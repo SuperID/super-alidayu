@@ -14,12 +14,12 @@ $ npm install super-alidayu --save
 
 const AliDaYu = require('super-alidayu');
 
-let client = new AliDaYu({
+const client = new AliDaYu({
   app_key: 'xxxxxxx',
   secret: 'xxxxxxxx',
 });
 
-let options = {
+const options = {
   sms_free_sign_name: '登录验证',
   sms_param: {
     code: '1234',

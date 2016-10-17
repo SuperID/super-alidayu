@@ -1,8 +1,11 @@
 {
   "name": "super-alidayu",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Alidayu client for Node.js 阿里大鱼短信服务Node.js客户端",
   "main": "lib/index.js",
+  "files": [
+    "lib"
+  ],
   "scripts": {
     "test": "mocha"
   },
@@ -25,7 +28,6 @@
     "mocha": "^3.1.2"
   },
   "dependencies": {
-    "lei-promise": "0.0.4",
     "lei-utils": "^3.0.0",
     "request": "^2.75.0"
   }
