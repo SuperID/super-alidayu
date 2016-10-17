@@ -27,6 +27,6 @@
   "dependencies": {
     "lei-promise": "0.0.4",
     "lei-utils": "^3.0.0",
-    "request": "^2.67.0"
+    "request": "^2.75.0"
   }
 }
