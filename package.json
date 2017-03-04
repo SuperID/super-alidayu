@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/SuperID/super-alidayu",
   "devDependencies": {
-    "mocha": "^3.1.2"
+    "mocha": "^3.2.0"
   },
   "dependencies": {
     "lei-utils": "^3.1.0",
