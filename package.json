@@ -29,6 +29,6 @@
   },
   "dependencies": {
     "lei-utils": "^3.1.0",
-    "request": "^2.80.0"
+    "request": "^2.81.0"
   }
 }
